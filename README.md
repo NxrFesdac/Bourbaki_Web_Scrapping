@@ -1,4 +1,4 @@
-## Bienvenidos al curso!
+## Bienvenidos a la semana de Webscrapping!
 
 ![Alt Text](https://media1.tenor.com/images/743df11bb5b286f4229652f2c15c2487/tenor.gif)
 
